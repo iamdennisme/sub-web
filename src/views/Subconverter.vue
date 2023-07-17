@@ -314,6 +314,16 @@ export default {
             ]
           },
           {
+            label: "daicheng",
+            options: [
+              {
+                label: "normal",
+                value:
+                  "https://raw.githubusercontent.com/iamdennisme/ACL4SSR/master/Clash/config/ACL4SSR.ini"
+              }
+            ]
+          },
+          {
             label: "customized",
             options: [
               {
