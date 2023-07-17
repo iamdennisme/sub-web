@@ -317,7 +317,7 @@ export default {
             label: "daicheng",
             options: [
               {
-                label: "normal",
+                label: "daicheng",
                 value:
                   "https://github.com/iamdennisme/ACL4SSR/blob/master/Clash/config/ACL4SSR_daicheng.ini"
               }
