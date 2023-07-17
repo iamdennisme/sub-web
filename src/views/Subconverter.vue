@@ -319,7 +319,7 @@ export default {
               {
                 label: "normal",
                 value:
-                  "https://raw.githubusercontent.com/iamdennisme/ACL4SSR/master/Clash/config/ACL4SSR.ini"
+                  "https://github.com/iamdennisme/ACL4SSR/blob/master/Clash/config/ACL4SSR_daicheng.ini"
               }
             ]
           },
