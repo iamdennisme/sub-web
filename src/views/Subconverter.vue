@@ -314,12 +314,12 @@ export default {
             ]
           },
           {
-            label: "daicheng",
+            label: "taicheng",
             options: [
               {
-                label: "daicheng",
+                label: "taicheng",
                 value:
-                  "https://github.com/iamdennisme/ACL4SSR/blob/master/Clash/config/ACL4SSR_daicheng.ini"
+                  "https://github.com/iamdennisme/ACL4SSR/blob/master/Clash/config/ACL4SSR_taicheng.ini"
               }
             ]
           },
